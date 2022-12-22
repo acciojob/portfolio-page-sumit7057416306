@@ -1,0 +1,27 @@
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+
+}
+*{
+    background-color: black;
+}
+h1{
+    color: purple;
+}
+.skills {
+    color: white;
+}
+.projects{
+    color: white;
+}
+.ski{
+    color: aqua;
+}
+.pr{
+    color: aqua;
+}
+a{
+    color: white;
+}
